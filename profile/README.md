@@ -1,7 +1,9 @@
 # Polaris Kit
 Modern React design system — accessible components, design tokens and theming for consistent product UIs.
+
 **[Documentation](https://main--6a6a03885409ae6257b04aac.chromatic.com)** · **[Source](https://github.com/polaris-kit/polaris-kit)** · **[npm](https://www.npmjs.com/org/polaris-kit)**
----
+
+
 ## Packages
 | Package | Description |
 | --- | --- |
@@ -11,10 +13,10 @@ Modern React design system — accessible components, design tokens and theming 
 ```bash
 npm install @polaris-kit/react
 ```
----
+
 ## Stack
 Turborepo · pnpm · TypeScript · Storybook · Changesets · Chromatic
----
+
 ## Links
 - [Storybook](https://main--6a6a03885409ae6257b04aac.chromatic.com)
 - [Repository](https://github.com/polaris-kit/polaris-kit)
